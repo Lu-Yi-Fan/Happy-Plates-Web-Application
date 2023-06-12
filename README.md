@@ -8,7 +8,8 @@ happyplates-b82ce.web.app
 - List the main features of your app.
 
 ## Screenshots
-- Include screenshots of your app to give users a visual understanding of what it looks like.
+
+![Uploading Screenshot 2023-06-12 at 9.21.38 PM.png…]()
 
 ## Getting Started
 - Provide instructions on how to install and use your app.
