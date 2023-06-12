@@ -1,29 +1,17 @@
-# calorie_counter
+# Calorie Tracking App
+happyplates-b82ce.web.app
 
-This template should help get you started developing with Vue 3 in Vite.
+## Overview
+- Briefly describe what your app does and its purpose.
 
-## Recommended IDE Setup
+## Features
+- List the main features of your app.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Screenshots
+- Include screenshots of your app to give users a visual understanding of what it looks like.
 
-## Customize configuration
+## Getting Started
+- Provide instructions on how to install and use your app.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Video
+https://youtu.be/tNI8e_LloGs
