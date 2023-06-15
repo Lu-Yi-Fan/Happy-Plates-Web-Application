@@ -18,7 +18,7 @@ happyplates-b82ce.web.app
 ![Foodlog page](src/assets/screenshots/foodlog.png)
 
 - Exercise Log Page
-![Exerciselog page](src/assets/screenshots/exercieslog.png)
+![Exerciselog page](src/assets/screenshots/exerciselog.png)
 
 - Dashboard
 
