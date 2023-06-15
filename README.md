@@ -6,11 +6,20 @@ happyplates-b82ce.web.app
 
 ## Features
 - Questionnaire page
-![Questionnaire page](src/assets/screenshots/questionnaire)
+![Questionnaire page](src/assets/screenshots/questionnaire.png)
 - Homepage
+![Current Home page](src/assets/screenshots/homepagepresent.png)
+![Home page](src/assets/screenshots/homepage.png)
+
 - Calendar
+
+
 - Food Log Page
+![Foodlog page](src/assets/screenshots/foodlog.png)
+
 - Exercise Log Page
+![Exerciselog page](src/assets/screenshots/exercieslog.png)
+
 - Dashboard
 
 ## Screenshots
