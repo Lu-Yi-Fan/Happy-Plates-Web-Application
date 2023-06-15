@@ -15,7 +15,5 @@ happyplates-b82ce.web.app
 - Exercise Log Page
 ![Exerciselog page](src/assets/screenshots/exerciselog.png)
 
-## Screenshots
-
 ## Video Demo
 https://youtu.be/tNI8e_LloGs
