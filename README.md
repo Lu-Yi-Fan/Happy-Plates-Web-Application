@@ -6,6 +6,7 @@ happyplates-b82ce.web.app
 
 ## Features
 - Questionnaire page
+![Questionnaire page](src/assets/screenshots/questionnaire)
 - Homepage
 - Calendar
 - Food Log Page
